@@ -1,2 +1,2 @@
 # react-hooks-experiment
-experimenting with react hooks
+Experimenting with react hooks
